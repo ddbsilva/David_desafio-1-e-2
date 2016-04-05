@@ -24,7 +24,6 @@ document.write('<h2>Maior número = '+maior + "<br>" + 'Menor número = '+menor 
 
 
 </SCRIPT>
-<div id="resultado"></div>
 </SCRIPT>
 </body>
 </html>
